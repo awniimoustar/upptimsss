@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://api.telegram.org/bot7970993599:AAFieMFZUSPmxvasDrBzlRqErPXlemYiU6I/deleteWebhook
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
